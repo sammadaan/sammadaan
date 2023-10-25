@@ -24,7 +24,6 @@ I'm an AI Engineer passionate about leveraging the power of artificial intellige
 
 ## 🌐 Let's Connect
 
-- 📫 Reach me at [your.email@example.com](aseemmadaan9@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/aseemm-9-madaan)
   
 ## 📚 Check Out My Projects
@@ -32,25 +31,10 @@ I'm an AI Engineer passionate about leveraging the power of artificial intellige
 - [Project 1](https://github.com/sammadaan/Stock-Price-Prediction-Using-LSTM): A brief description of what this project does and why you should check it out.
 - [Project 2](https://github.com/sammadaan/Imdb-movie-prediction): A brief description of what this project does and why you should check it out.
 
-<!-- GitHub Stats -->
-<p align="center">
-  <a href="https://github.com/sammadaan">
-    <img src="https://img.shields.io/github/followers/sammadaan?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/sammadaan?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/sammadaan/github-profile-readme?label=Repository%20Size&style=flat" alt="Repository Size">
-  </a>
-  <a href="https://github.com/sammadaan">
-    <img src="https://img.shields.io/github/last-commit/sammadaan/github-profile-readme?label=Last%20Updated&style=flat" alt="Last Updated">
-  </a>
-  <a href="https://github.com/sammadaan">
-    <img src="https://img.shields.io/github/languages/count/sammadaan/github-profile-readme?label=Languages&style=flat" alt="Languages Used">
-  </a>
-</p>
+## 📊 GitHub Stats
 
-<!-- End of GitHub Stats -->
+[![Aseem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammadaan&show_icons=true&theme=dark)](https://github.com/sammadaan)
 
-<!-- Customize these badges with your information -->
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build the future with AI together! 🤖
 
