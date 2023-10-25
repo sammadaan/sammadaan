@@ -1,40 +1,35 @@
-<p align="center">
-  <img src="https://imgs.search.brave.com/Ds8RKugNrPTz9R2L5yJJWu8lw25mxfuVTclADdGZjp0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDY2OTA5/NjkuanBn" alt="Aseem Madaan - AI Engineer">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aseem Madaan
+====================================================================================================================================
+
+"Mastering the Art of AI/ML Engineering: Theory and Practice"
+-------------------------------------------------------------
+
+"Hey there! I'm Aseem Madaan, and I'm an AI/ML engineering enthusiast on a quest to decode the secrets of artificial intelligence and machine learning. As a student, I've delved deep into the world of AI and ML, embarking on a thrilling journey of discovery and innovation. My journey is marked by a series of exciting projects, each a stepping stone towards unraveling the potential of AI and ML. I've tackled predictive modeling, dabbled in computer vision, and conquered complex real-world problems by leveraging data and algorithms. I'm thrilled by the endless possibilities these technologies offer and can't wait to explore more. Armed with a solid foundation in math, coding, and data science, I'm not just about implementing existing models; I'm also keen on crafting my own solutions to unique challenges. The thrill of designing algorithms and watching them come to life is what drives me each day. While I'm deeply absorbed in AI and ML, I also make time to ponder the ethical dimensions of this field. I believe in the responsible development of AI and its positive impact on society. I often engage in discussions and debates about the ethical considerations that come with the power of artificial intelligence. I'm a firm believer in the strength of collaboration and teamwork. I actively seek out opportunities to work with peers and mentors, recognizing that the true magic of AI happens when great minds come together. With my passion for learning, a knack for problem-solving, and a desire to shape the future, I'm excited about what lies ahead in the realm of AI/ML engineering. As a student, I'm constantly growing and evolving, and I can't wait to see how my journey in this field unfolds."
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [aseemmadaan9@gmail.com](mailto:aseemmadaan9@gmail.com)
+* 🧠  I'm learning MLops and aws
+* 🤝  I'm open to collaborating on Deep Learning projects
+* ⚡  I'm your friendly neighborhood ML Engineer.
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
 
-# Hi there, I'm Aseem Madaan 👋
 
-I'm an AI Engineer passionate about leveraging the power of artificial intelligence to solve real-world problems. I love diving into the world of data, algorithms, and neural networks to create intelligent and innovative solutions. 
+### Socials
 
-## 🚀 My Expertise
+<p align="left"> <a href="https://www.github.com/sammadaan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/aseem_.madaan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aseem-9-madaan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/sammadaan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/aseemmadaan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@aseem_.madaan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 
-- **Machine Learning**: Expert in developing and deploying machine learning models for various applications.
-- **Deep Learning**: Proficient in building deep neural networks for tasks like image classification, NLP, and more.
-- **Computer Vision**: Experienced in computer vision applications such as object detection and image segmentation.
-- **Natural Language Processing**: Skilled in NLP tasks like sentiment analysis, text generation, and language translation.
-- **Data Science**: Proficient in data analysis, feature engineering, and predictive modeling.
+### Badges
 
-## 🔧 Tech Stack
+<b>My GitHub Stats</b>
 
-- **Programming Languages**: Python,
-- **Deep Learning Frameworks**: TensorFlow, PyTorch, Keras
-- **Tools**: Jupyter Notebook, Git, Docker
-- **Data Tools**: Pandas, NumPy, Scikit-learn
-- **Deployment**: AWS, Docker, Heroku
+<a href="http://www.github.com/sammadaan"><img src="https://github-readme-stats.vercel.app/api?username=sammadaan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sammadaan's GitHub stats" /></a>
 
-## 🌐 Let's Connect
+<a href="http://www.github.com/sammadaan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sammadaan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/aseemm-9-madaan)
-  
-## 📚 Check Out My Projects
-
-- [Project 1](https://github.com/sammadaan/Stock-Price-Prediction-Using-LSTM): A brief description of what this project does and why you should check it out.
-- [Project 2](https://github.com/sammadaan/Imdb-movie-prediction): A brief description of what this project does and why you should check it out.
-
-## 📊 GitHub Stats
-
-[![Aseem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammadaan&show_icons=true&theme=dark)](https://github.com/sammadaan)
-
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build the future with AI together! 🤖
-
+<a href="https://github.com/sammadaan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammadaan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
