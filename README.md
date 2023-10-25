@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Aseem Madaan - AI Engineer">
+  <img src="https://imgs.search.brave.com/Ds8RKugNrPTz9R2L5yJJWu8lw25mxfuVTclADdGZjp0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDY2OTA5/NjkuanBn" alt="Aseem Madaan - AI Engineer">
 </p>
 
 # Hi there, I'm Aseem Madaan 👋
